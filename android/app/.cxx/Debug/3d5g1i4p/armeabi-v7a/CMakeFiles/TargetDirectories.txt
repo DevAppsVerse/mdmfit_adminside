@@ -1,0 +1,2 @@
+C:/Users/yum/StudioProjects/mdmfit/android/app/.cxx/Debug/3d5g1i4p/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/yum/StudioProjects/mdmfit/android/app/.cxx/Debug/3d5g1i4p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
